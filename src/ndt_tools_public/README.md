@@ -1,0 +1,1 @@
+[![build status](https://gitsvn-nt.oru.se/software/ndt_tools/badges/master/build.svg)](https://gitsvn-nt.oru.se/software/ndt_tools/commits/master)
