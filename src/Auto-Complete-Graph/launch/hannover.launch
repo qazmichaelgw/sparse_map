@@ -138,13 +138,13 @@
 		<param name="motion_params_Tt" value="10"/>
 
 
-    <remap from="acg_maps" to ="acg_node_localization/acg_maps"/>
+    <remap from="acg_maps" to ="/acg_node_localization/acg_maps"/>
 
 
 
   </node>
 
-<!-- <node pkg="rviz" type="rviz" name="rviz" args="-d $(find graph_map)/launch/3d.rviz" /> -->
+<node pkg="rviz" type="rviz" name="rviz" args="-d $(find graph_map)/launch/3d.rviz" />
 
 <!--<arg name="path" default="$(find graph_map)/data/" />
 <arg name="file_1" default="3d_laser_short.bag" />
